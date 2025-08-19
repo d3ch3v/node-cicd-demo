@@ -1,14 +1,11 @@
 {
-  {
   "name": "node-cicd-demo",
   "version": "1.0.0",
-  "description": "Прост Node.js проект с CI/CD pipeline",
+  "description": "Simple Node.js project with GitHub CI",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Your Name",
   "license": "MIT"
-}
-
 }
